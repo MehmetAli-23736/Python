@@ -1,7 +1,7 @@
 list = [1, 2, 3, 4, 5, 6]
 
 for rakam in list: # for döngüsü açtık
-    print(rakam) # fro döngüsü içerisinde rakam yazdırdık
+    print(rakam) # for döngüsü içerisinde rakam yazdırdık
     
 
 for i in range(0, 10): #range 0dan 10a kadar olanı yazdırır. (0 dahil 10 dahil değil)
