@@ -1,0 +1,4 @@
+python ile bu dosyanın içerisini okuyup,
+bu dosya hakkında bilgileri alacağız. 
+bu dosyanın amacı bu kadar, 
+farklı bir amacı yok yani :)
